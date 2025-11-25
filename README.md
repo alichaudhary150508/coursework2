@@ -1,6 +1,6 @@
 # Week 7: Secure Authentication System
-Student Name: [Mohammad Ali Chaudhary]
-Student ID: [M01026895]
+Student Name: Mohammad Ali Chaudhary
+Student ID: M01026895
 Course: CST1510 -CW2 - Multi-Domain Intelligence Platform
 ## Project Description
 A command-line authentication system implementing secure password hashing
